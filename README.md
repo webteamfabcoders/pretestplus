@@ -14,6 +14,12 @@ if text based or image  based type of question is selected then choose whether i
 
 if it is a summary based question than add an image of the summary and click on "Save Summary". Fill in the required details. You can also add sub questions if needed by clicking on "ADD NEW SUB QUESTION". Click on "END SUMMARY QUESTION" if there are no more questions to be added.
 
+if it is note then type in the note and click on "Save and Proceed".
+
+Follow the above proceddure for the required number of questions. if there no more questions to be added then click on "COMPLETE TEST".
+
+### - Adding a module, deleting a module###
+
 
 
 
