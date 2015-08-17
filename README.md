@@ -146,6 +146,31 @@ Parent can reset or change his passwords logging into his account.
   4. Select files to be uploaded and the images will be automatically uploaded to the database 
   5. If the format of the file is not supported the file will not be uploaded .An overlay shows the file is not supported. Selecting remove file the unsupported file is removed.
 
+#School Functionality#
+
+##Assigning Tests to Students##
+
+  1. In the School dashboard, all test purchased will be shown in dropdown 
+  2. Select the test to be assign from the dropdown. Test quantities available will be shown next to test name 
+  3. Select students whom to assign the test. Desired students can be selected by selecting checkbox against respective
+  4. Students or you can use search option to search students and select them. All students can be selected at time by selecting checkbox provided before username column
+  5. Click on assign button which will prompt for confirmation for assigning test. Click on ok to assign test
+
+##Creating Groups##
+
+  1. Login to  the school dashboard, click on option add next to students group which will pop up add group window
+  2. In Add group window, Enter the group name in the text field and click on add group  button
+  3. The created groups will be shown in left side menu bar
+
+###- Editing Student Accounts###
+  
+  1. Select the students to be assigned to group from data grid
+  2. Click on   Symbol next to group to which you want to add students
+
+
+
+
+  
 
   
   
