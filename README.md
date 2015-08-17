@@ -18,7 +18,7 @@ When a test is first created a default Part also gets created.
 
   - Deleting a part
   
-To delete a Part Click on "DELETE" on the left sidebar.
+    To delete a Part Click on "DELETE" on the left sidebar.
 
 ### - Adding a module, deleting a module###
 
