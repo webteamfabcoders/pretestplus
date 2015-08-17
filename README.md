@@ -83,11 +83,19 @@ When a test is first created a default Part also gets created.
   2. Click on "ADD STUDENTS TO SCHOOL" on the left sidebar.
   3. Enter the number of students account you want to add.
   4. Select the name of the school from the dropdown list and click on "ADD STUDENTS".
+  5. "Students added successfully" message will be displayed along with a link to download the students details in excel sheet.
+  6. Click on "download the students details" to view their respective username and password.
+
 
 ###- Adding Tests to School Accounts###
+
   1. Go to home on the menu.
   2. Click on "ASSIGN TESTS TO SCHOOL" on the left sidebar.
   3. Select the test name.
   4. Enter the quantity of that particular test you want to assign.
   5. Select the school name and then click on "save"
+
+##Viewing Parent Accounts, Editing Parent Accounts##
+
+
   
