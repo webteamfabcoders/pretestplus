@@ -1,1 +1,2 @@
-# pretestplus
+# pretestplus Documentation
+## Admin Functionality:
