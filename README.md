@@ -18,7 +18,13 @@ if it is note then type in the note and click on "Save and Proceed".
 
 Follow the above proceddure for the required number of questions. if there no more questions to be added then click on "COMPLETE TEST".
 
+To delete a Part Click on "DELETE" on the left sidebar.
+
 ### - Adding a module, deleting a module###
+
+1. To add a module click on "+ADD MODULE". 
+2.  Enter the required Module Details such as its name, time limit and the type of test.
+3.  Then click on "Save"
 
 
 
