@@ -9,19 +9,26 @@ Once loggedin, the page redirects to admin dashboard
 ### - Adding a part, deleting a part###
 
 When a test is first created a default Part also gets created. 
+
+  - Adding a part
+  
 1. To add a part click on "tests" on the menu. The tests page opens with all the test.
 2. Click on "Edit Test".
 3. Then click on "ADD PART". Once the part  is created, it will be listed on the left sidebar. 
 
+  -Deleting a part
+  
 To delete a Part Click on "DELETE" on the left sidebar.
 
 ### - Adding a module, deleting a module###
 
   - Adding a module
+  
+    1. To add a module click on "+ADD MODULE". 
+    2. Enter the required Module Details such as its name, time limit and the type of test.
+    3. Then click on "Save".
 
-1. To add a module click on "+ADD MODULE". 
-2. Enter the required Module Details such as its name, time limit and the type of test.
-3. Then click on "Save".
+  - Deleting a module
 
 
 
