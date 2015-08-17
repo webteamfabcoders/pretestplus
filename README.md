@@ -1,2 +1,7 @@
-# pretestplus Documentation
-## Admin Functionality:
+
+##Docs For Pretestplus Admin##
+###Admin Functionality:###
+
+####Creating Tests####
+- Item
+
