@@ -68,7 +68,7 @@ When a test is first created a default Part also gets created.
 
 ##Viewing results##
 
-- Filter function, search function
+###- Filter function, search function###
 
   1. Go to home on the menu.
   2. Click on "VIEW ALL RESULTS". The result page will be displayed.
