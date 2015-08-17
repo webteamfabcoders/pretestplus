@@ -1,5 +1,5 @@
 #Docs For Pretestplus Admin#
-##logging in#
+##Logging in#
 Logging into Admin Panel
 Visit Pretestplus site’s login page i.e http://pretestplus/moctest/public_html/login
 Login using your username and password.
@@ -95,7 +95,9 @@ When a test is first created a default Part also gets created.
   4. Enter the quantity of that particular test you want to assign.
   5. Select the school name and then click on "save"
 
-##Viewing Parent Accounts, Editing Parent Accounts##
+##Disabling Accounts, Re-enabling Accounts##
+ 
 
-
+  
+  
   
