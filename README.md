@@ -97,6 +97,17 @@ When a test is first created a default Part also gets created.
 
 ##Disabling Accounts, Re-enabling Accounts##
  
+  1. In Admin window check parent and school list of users. 
+  2. Select the user whose account needs to be disabled.
+  3. Disable account button would be seen on clicking on the check box of user account.
+  4. Account disabled would no longer been seen in the list of active users.
+  
+##Resetting User Passwords##
+
+  1. In Admin window go to settings select user account that needs to be enabled by clicking on the check box.
+  2. Enable account button will be seen once user account is selected. Click on enable account.
+  3. User account will be enabled and moved back to active users list for admin to view.
+
 
   
   
