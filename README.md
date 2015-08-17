@@ -13,7 +13,7 @@ When a test is first created a default Part also gets created.
   - Adding a part
   
     1. To add a part click on "tests" on the menu. The tests page opens with all the test.
-    2. Click on "Edit Test".
+    2. Click on "Edit Test" of the test you want to modify.
     3. Then click on "ADD PART". Once the part  is created, it will be listed on the left sidebar. 
 
   - Deleting a part
@@ -36,7 +36,7 @@ When a test is first created a default Part also gets created.
 ### - Adding a question###
 
   1. Cick on "Tests" on the menu.
-  2. Click on "Edit Test".
+  2. Click on "Edit Test" of the test you want to modify.
   3. Then click on "ADD PART". Once the part  is created, it will be listed on the left sidebar. 
   4. Enter the required Module Details such as its name, time limit and the type of test. Then click on "Save". 
   5. Once the module is saved "Q1" of that module is displayed. Select the type of question from dropdown list whether it is text based, image based, summary based or a note. 
@@ -52,10 +52,20 @@ When a test is first created a default Part also gets created.
   Follow the above proceddure for the required number of questions. if there no more questions to be added then click on "COMPLETE TEST".
 
 ###- Copying from another test###
-  1. Cick on "Tests" on the menu.
-  2. Click on "Edit Test". The test page is displayed.
-  3. Click on "COPY FROM OTHER TEST" on the right side of the test name.
-  4. Select the test name from which you want to copy. and Click on "copy test".
 
+  1. Cick on "Tests" on the menu.
+  2. Click on "Edit Test" of the test you want to modify. The test page is displayed.
+  3. Click on "COPY FROM OTHER TEST" on the right side of the test name.
+  4. Select the test name from which you want to copy and Click on "copy test".
+
+###- Rearranging questions###
+
+  1. Cick on "Tests" on the menu.
+  2. Click on "Edit Test" of the test you want to modify. The test page is displayed.
+  3. Drag and drop the question to the desired location.
+  4. Then click on "CHANGE ORDER". The order will be saved.
+
+
+##Viewing results##
 
 
