@@ -1,4 +1,4 @@
-#Docs For Pretestplus Admin#
+#Admin Functionality#
 ##Logging in#
 Logging into Admin Panel
 Visit Pretestplus site’s login page i.e http://pretestplus/moctest/public_html/login
