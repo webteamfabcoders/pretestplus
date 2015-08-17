@@ -17,7 +17,7 @@ To delete a Part Click on "DELETE" on the left sidebar.
 
 ### - Adding a module, deleting a module###
 
-- Adding a module
+-- Adding a module
 
 1. To add a module click on "+ADD MODULE". 
 2. Enter the required Module Details such as its name, time limit and the type of test.
