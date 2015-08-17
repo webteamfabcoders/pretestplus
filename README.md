@@ -162,12 +162,29 @@ Parent can reset or change his passwords logging into his account.
   2. In Add group window, Enter the group name in the text field and click on add group  button
   3. The created groups will be shown in left side menu bar
 
-###- Editing Student Accounts###
+###- Adding students to groups###
   
   1. Select the students to be assigned to group from data grid
-  2. Click on + Symbol next to group to which you want to add students
+  2. Click on "+" Symbol next to group to which you want to add students
+
+###-	Removing students from group##
+  1. Select the group from which you want to delete the students which lists all students belonging to selected group
+  2. Select the student to be deleted and click on "–" symbol next to group to remove students from that group
 
 
+##Editing Student Accounts##
+  1. Students account can be edited by login into school dashboard or login to student dashboard
+  2. Login to school dashboard, Select the student whose account to be edited by clicking on the name of the student
+  3. Select edit account option on student  detail page
+  4. Update the required information. First/last name/password and click on save option. Date of birth field is non editable
+  5. In student dashboard login to student account, click on edit account, edit details  and click on save option
+  
+##Viewing Students Results##
+  1. Login to school dashboard. Select the student of whom to view the result by clicking on name of student which directs to student detail page
+  2. In the completed tests section, select the test of which to view the results and click on view report 
+
+
+  
 
 
   
