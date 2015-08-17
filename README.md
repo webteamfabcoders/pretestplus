@@ -74,5 +74,5 @@ When a test is first created a default Part also gets created.
   2. Click on "VIEW ALL RESULTS". The result page will be displayed.
   3. Select the test of whose result you want to view.
   4. The result will be displayed.
-  
 
+##Adding School Accounts, Editing School Accounts##
