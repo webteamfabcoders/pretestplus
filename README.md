@@ -5,6 +5,8 @@ Visit Pretestplus site’s login page i.e http://pretestplus/moctest/public_html
 Login using your username and password.
 Once loggedin, the page redirects to admin dashboard
 
-## -Creating Tests##
+##Creating Tests##
+- Adding a part, deleting a part
+
 
 
