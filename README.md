@@ -165,7 +165,7 @@ Parent can reset or change his passwords logging into his account.
 ###- Editing Student Accounts###
   
   1. Select the students to be assigned to group from data grid
-  2. Click on   Symbol next to group to which you want to add students
+  2. Click on + Symbol next to group to which you want to add students
 
 
 
