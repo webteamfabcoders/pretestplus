@@ -96,17 +96,40 @@ When a test is first created a default Part also gets created.
   5. Select the school name and then click on "save"
 
 ##Disabling Accounts, Re-enabling Accounts##
- 
+###- Disabling Accounts### 
+
   1. In Admin window check parent and school list of users. 
   2. Select the user whose account needs to be disabled.
   3. Disable account button would be seen on clicking on the check box of user account.
   4. Account disabled would no longer been seen in the list of active users.
   
-##Resetting User Passwords##
+###- Re-enabling Accounts###
 
   1. In Admin window go to settings select user account that needs to be enabled by clicking on the check box.
   2. Enable account button will be seen once user account is selected. Click on enable account.
   3. User account will be enabled and moved back to active users list for admin to view.
+
+##Resetting user password##
+
+User passwords can be done by admin using edit account option for user. 
+
+  1. Login to admin, select parent from menu options
+  2. Select the parent by clicking on the name of the parent
+  3. Select edit account from the parent detail page edit account window will pop up
+  4. Enable the check box for resetting password and click on update account 
+  5. Email will be sent with the random passwords.
+
+Parent can reset or change his passwords logging into his account. 
+  1.	Clicking on his name shown in menu 
+  2.	Sub menu change password option will be seen 
+  3.	Click on change password option 
+  4.	Enter old password and new password 
+  5.	New password should be 6 characters long 
+  6.	Once the password is changed. Passwords changed successfully message will be shown 
+  7.	Parent can login into his account with the new password 
+ 
+
+
 
 
   
