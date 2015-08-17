@@ -139,6 +139,12 @@ Parent can reset or change his passwords logging into his account.
   4. selecting the check box option on the image, delete button is shown 
   5. Selecting delete button, image will be deleted from the database list of images.
 
+###- Upload Images###
+  1. Login into admin Account. Open admin Dashboard
+  2. Check the right hand side bar click on the option bulk upload 
+  3. Bulk file upload window shows up 
+  4. Select files to be uploaded and the images will be automatically uploaded to the database 
+  5. If the format of the file is not supported the file will not be uploaded .An overlay shows the file is not supported. Selecting remove file the unsupported file is removed.
 
 
   
