@@ -120,6 +120,7 @@ User passwords can be done by admin using edit account option for user.
   5. Email will be sent with the random passwords.
 
 Parent can reset or change his passwords logging into his account. 
+
   1.	Clicking on his name shown in menu 
   2.	Sub menu change password option will be seen 
   3.	Click on change password option 
