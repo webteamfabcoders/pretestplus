@@ -130,6 +130,14 @@ Parent can reset or change his passwords logging into his account.
   7.	Parent can login into his account with the new password 
  
 
+##Managing Gallery + Bulk Uploads of Images##
+  
+###- Managing gallery###
+  1. Login into admin Account. Open admin Dashboard 
+  2. Check the right hand side bar click on the option view all images 
+  3. Gallery option will be seen with all current images in database
+  4. selecting the check box option on the image, delete button is shown 
+  5. Selecting delete button, image will be deleted from the database list of images.
 
 
 
