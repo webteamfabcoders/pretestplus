@@ -17,9 +17,12 @@ To delete a Part Click on "DELETE" on the left sidebar.
 
 ### - Adding a module, deleting a module###
 
+- Adding a module
+
 1. To add a module click on "+ADD MODULE". 
 2. Enter the required Module Details such as its name, time limit and the type of test.
 3. Then click on "Save".
+
 
 
 ### - Adding a question###
@@ -41,7 +44,9 @@ To delete a Part Click on "DELETE" on the left sidebar.
 Follow the above proceddure for the required number of questions. if there no more questions to be added then click on "COMPLETE TEST".
 
 ###- Copying from another test###
-1.
+1. Cick on "Tests" on the menu.
+2. Click on "Edit Test".
+3. 
 
 
 
