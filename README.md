@@ -85,5 +85,9 @@ When a test is first created a default Part also gets created.
   4. Select the name of the school from the dropdown list and click on "ADD STUDENTS".
 
 ###- Adding Tests to School Accounts###
-  1. 
-  5. 
+  1. Go to home on the menu.
+  2. Click on "ASSIGN TESTS TO SCHOOL" on the left sidebar.
+  3. Select the test name.
+  4. Enter the quantity of that particular test you want to assign.
+  5. Select the school name and then click on "save"
+  
