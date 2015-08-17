@@ -53,8 +53,9 @@ When a test is first created a default Part also gets created.
 
 ###- Copying from another test###
   1. Cick on "Tests" on the menu.
-  2. Click on "Edit Test".
-  3. 
+  2. Click on "Edit Test". The test page is displayed.
+  3. Click on "COPY FROM OTHER TEST" on the right side of the test name.
+  4. Select the test name from which you want to copy. and Click on "copy test".
 
 
 
