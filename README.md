@@ -148,7 +148,7 @@ Parent can reset or change his passwords logging into his account.
   7.	Parent can login into his account with the new password 
  
 
-##Managing Gallery + Bulk Uploads of Images##
+##Managing Gallery + Bulk Uploads##
   
 ###- Managing gallery###
   1. Login into admin Account. Open admin Dashboard 
