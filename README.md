@@ -15,8 +15,7 @@ When a test is first created a default Part also gets created.
     1. To add a part click on "tests" on the menu. The tests page opens with all the test.
     2. Click on "Edit Test" of the test you want to modify.
     3. Then click on "ADD PART". Once the part  is created, it will be listed on the left sidebar. 
-
- - Deleting a part
+- Deleting a part
   
     To delete a Part Click on "DELETE" on the left sidebar.
 
