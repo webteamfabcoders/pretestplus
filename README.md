@@ -1,9 +1,9 @@
 #Admin Functionality#
 ##Logging in#
 Logging into Admin Panel
-Visit Pretestplus site’s login page i.e http://pretestplus/moctest/public_html/login
+Go to Pretestplus site’s login page i.e. http://pretestplus/moctest/public_html/login.
 Login using your username and password.
-Once loggedin, the page redirects to admin dashboard
+Once loggedin, the page redirects to admin dashboard.
 
 ##Creating Tests##
 ### - Adding a part, deleting a part###
@@ -12,12 +12,12 @@ When a test is first created a default Part also gets created.
 
 - Adding a part
   
-    1. To add a part click on "tests" on the menu. The tests page opens with all the test.
+    1. To add a part click on "tests" on the menu. The tests page opens with all the tests.
     2. Click on "Edit Test" of the test you want to modify.
-    3. Then click on "ADD PART". Once the part  is created, it will be listed on the left sidebar. 
+    3. Then click on "ADD PART". Once the part is created, it will be listed on the left sidebar. 
 - Deleting a part
   
-    To delete a Part Click on "DELETE" on the left sidebar.
+    To delete a Part, Click on "DELETE" on the left sidebar.
 
 ### - Adding a module, deleting a module###
 
@@ -34,32 +34,32 @@ When a test is first created a default Part also gets created.
 
 ### - Adding a question###
 
-  1. Cick on "Tests" on the menu.
+  1. Click on "Tests" on the menu.
   2. Click on "Edit Test" of the test you want to modify.
-  3. Then click on "ADD PART". Once the part  is created, it will be listed on the left sidebar. 
+  3. Then click on "ADD PART". Once the part is created, it will be listed on the left sidebar. 
   4. Enter the required Module Details such as its name, time limit and the type of test. Then click on "Save". 
   5. Once the module is saved "Q1" of that module is displayed. Select the type of question from dropdown list whether it is text based, image based, summary based or a note. 
-  6. If text based or image  based type of question is selected then choose whether it is a practice question or a sample question and if it requires a pause timer. 
+  6. If text based or image based type of question is selected then choose whether it is a practice question or a sample question and if it requires a pause timer. 
   7. Enter the question in the textarea provided, give the options in the specified location and mark the correct option for a text based question. 
-  8. If it is a image based question then provide the images wherever necessary. Enter the explanation for the solution and click on "Save and Proceed".
+  8. If it is an image based question then provide the images wherever necessary. Enter the explanation for the solution and click on "Save and Proceed".
   9. If it is a summary based question than add an image of the summary and click on "Save Summary". 
   10. Fill in the required details. 
   11. You can also add sub questions if needed by clicking on "ADD NEW SUB QUESTION". 
-  12. Click on "END SUMMARY QUESTION". If there are no more questions to be added.
-  13. if it is note then type in the note and click on "Save and Proceed".
+  12. Click on "END SUMMARY QUESTION" If there are no more questions to be added.
+  13. If it is note then type in the note and click on "Save and Proceed".
 
-  Follow the above proceddure for the required number of questions. if there no more questions to be added then click on "COMPLETE TEST".
+  Follow the above procedure for the required number of questions if there no more questions to be added then click on "COMPLETE TEST".
 
 ###- Copying from another test###
 
-  1. Cick on "Tests" on the menu.
+  1. Click on "Tests" on the menu.
   2. Click on "Edit Test" of the test you want to modify. The test page is displayed.
   3. Click on "COPY FROM OTHER TEST" on the right side of the test name.
   4. Select the test name from which you want to copy and Click on "copy test".
 
 ###- Rearranging questions###
 
-  1. Cick on "Tests" on the menu.
+  1. Click on "Tests" on the menu.
   2. Click on "Edit Test" of the test you want to modify. The test page is displayed.
   3. Drag and drop the question to the desired location.
   4. Then click on "CHANGE ORDER". The order will be saved.
@@ -78,14 +78,14 @@ When a test is first created a default Part also gets created.
 
 ###- Adding School Accounts###
   1. Go to home on the menu.
-  2. click on "+ADD SCHOOL" on the left sidebar.
+  2. Click on "+ADD SCHOOL" on the left sidebar.
   3. Enter the details of school and click on "CREATE ACCOUNT".
   4. "School Account Created Successfully" message will be displayed.
   5. Click on "DONE".
   6. The school account will be created.
-  7. You can view the school account created by clicking on "VIEW SCHOOLS" on th left sidebar.
+  7. You can view the school account created by clicking on "VIEW SCHOOLS" on the left sidebar.
   
-###- Editting School Accounts###
+###- Editing School Accounts###
 
   1. Click on "schools" on the menu.
   2. Click on the school name you want to edit.
@@ -101,7 +101,7 @@ When a test is first created a default Part also gets created.
   2. Click on "ADD STUDENTS TO SCHOOL" on the left sidebar.
   3. Enter the number of students account you want to add.
   4. Select the name of the school from the dropdown list and click on "ADD STUDENTS".
-  5. "Students added successfully" message will be displayed along with a link to download the students details in excel sheet.
+  5. "Students added successfully" message will be displayed along with a link to download the student’s details in excel sheet.
   6. Click on "download the students details" to view their respective username and password.
 
 
@@ -176,8 +176,8 @@ Parent can reset or change his passwords logging into his account.
 
 ##Creating Groups##
 
-  1. Login to  the school dashboard, click on option add next to students group which will pop up add group window
-  2. In Add group window, Enter the group name in the text field and click on add group  button
+  1. Login to the school dashboard, click on option add next to students group which will pop up add group window
+  2. In Add group window, Enter the group name in the text field and click on add group button
   3. The created groups will be shown in left side menu bar
 
 ###- Adding students to groups###
@@ -193,9 +193,9 @@ Parent can reset or change his passwords logging into his account.
 ##Editing Student Accounts##
   1. Students account can be edited by login into school dashboard or login to student dashboard
   2. Login to school dashboard, Select the student whose account to be edited by clicking on the name of the student
-  3. Select edit account option on student  detail page
+  3. Select edit account option on student detail page
   4. Update the required information. First/last name/password and click on save option. Date of birth field is non editable
-  5. In student dashboard login to student account, click on edit account, edit details  and click on save option
+  5. In student dashboard login to student account, click on edit account, edit details and click on save option
   
 ##Viewing Students Results##
   1. Login to school dashboard. Select the student of whom to view the result by clicking on name of student which directs to student detail page
