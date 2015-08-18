@@ -76,6 +76,25 @@ When a test is first created a default Part also gets created.
 
 ##Adding & Editing School Accounts##
 
+###- Adding School Accounts###
+  1. Go to home on the menu.
+  2. click on "+ADD SCHOOL" on the left sidebar.
+  3. Enter the details of school and click on "CREATE ACCOUNT".
+  4. "School Account Created Successfully" message will be displayed.
+  5. Click on "DONE".
+  6. The school account will be created.
+  7. You can view the school account created by clicking on "VIEW SCHOOLS" on th left sidebar.
+  
+###- Editting School Accounts###
+
+  1. Click on "schools" on the menu.
+  2. Click on the school name you want to edit.
+  3. The Schools account details page opens.
+  4. Click on "EDIT ACCOUNT" on the right hand side of the school name.
+  5. Change the required fields and Click on "UPDATE ACCOUNT".
+  6. If you want to change the password click mark reset password.
+  7. The new password will be sent to the specified email id.
+ 
 ###- Adding Students to School Accounts###
 
   1. Go to home on the menu.
@@ -94,7 +113,7 @@ When a test is first created a default Part also gets created.
   4. Enter the quantity of that particular test you want to assign.
   5. Select the school name and then click on "save"
 
-##Disabling Accounts, Re-enabling Accounts##
+##Disabling & Re-enabling Accounts##
 ###- Disabling Accounts### 
 
   1. In Admin window check parent and school list of users. 
