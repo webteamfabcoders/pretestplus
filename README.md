@@ -142,6 +142,14 @@ When a test is first created a default Part also gets created.
   9. Click on "DONE".
   10. The parent account is editted.
 
+###- Viewing a child's account + tests###
+  1.  To view a particular students profile, Click on "PARENTS" on the menu bar.
+  2. Or Click on "VIEW ALL PARENTS" under "PARENTS" section in the sidebar.
+  3. The list with all parents name will be displayed.
+  4. Click on the parents username to view the his/her profile.
+  5. Scroll down to view the list of children the parent has registered.
+  6. Click on the childs username to view his/her profile.
+  7. That childs profile will open with his details.
 
 ##Disabling & Re-enabling Accounts##
 ###- Disabling Accounts### 
