@@ -239,7 +239,7 @@ Parent can reset or change his passwords logging into his account.
   1. Login to school dashboard. Select the student of whom to view the result by clicking on name of student which directs to student detail page
   2. In the completed tests section, select the test of which to view the results and click on view report 
 
-##Resetting Student Passwords##
+##Resetting Student Password##
   1. Login to school dashboard. Select the student of whom to change the password by clicking on name of student which directs to student detail page.
   2. Click on "EDIT ACCOUNT" at the right hand side of the student name.
   3. A popup block will be displayed with the student details.
