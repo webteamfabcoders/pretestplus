@@ -149,7 +149,7 @@ When a test is first created a default Part also gets created.
   4. Click on the parents username to view the his/her profile.
   5. Scroll down to view the list of children the parent has registered.
   6. Click on the childs username to view his/her profile.
-  7. That childs profile will open with his/her details, the test assigned to him/her and also the test competed will be shown.
+  7. That childs profile will open with his/her details, the unanswered test and also the test completed by him/her will be shown.
 
 ##Disabling & Re-enabling Accounts##
 ###- Disabling Accounts### 
@@ -239,7 +239,12 @@ Parent can reset or change his passwords logging into his account.
   1. Login to school dashboard. Select the student of whom to view the result by clicking on name of student which directs to student detail page
   2. In the completed tests section, select the test of which to view the results and click on view report 
 
-
+##Resetting Student Passwords##
+  1. Login to school dashboard. Select the student of whom to change the password by clicking on name of student which directs to student detail page.
+  2. Click on "EDIT ACCOUNT" at the right hand side of the student name.
+  3. A popup block will be displayed with the student details.
+  4. Type the password in the password fields and click on "SAVE".
+  5. The new password will be saved.
   
 
 
