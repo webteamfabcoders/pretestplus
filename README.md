@@ -122,7 +122,7 @@ When a test is first created a default Part also gets created.
   4. Enter the quantity of that particular test you want to assign.
   5. Select the school name and then click on "save"
 
-##Viewing and Editting Parents Accounts
+##Viewing & Editting Parents Accounts
 
 ###- Viewing Parents Accounts###
   1. To view a particular students profile, Click on "PARENTS" on the menu bar.
