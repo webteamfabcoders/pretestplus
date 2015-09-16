@@ -76,7 +76,7 @@ When a test is first created a default Part also gets created.
 
 ###- Viewing particular student's profile###
   1. To view a particular students profile, Click on "SCHOOLS" on the menu bar.
-  2. Or Click on "VIEW ALL SCHOOLS" in the sidebar.
+  2. Or Click on "VIEW ALL SCHOOLS" under "SCHOOL" section in the sidebar.
   3. Click on the school name in which the student is studying.
   4. School profile will be opened.
   5. Scroll down to view the list of students in the school.
@@ -121,6 +121,27 @@ When a test is first created a default Part also gets created.
   3. Select the test name.
   4. Enter the quantity of that particular test you want to assign.
   5. Select the school name and then click on "save"
+
+##Viewing and Editting Parents Accounts
+
+###- Viewing Parents Accounts###
+  1. To view a particular students profile, Click on "PARENTS" on the menu bar.
+  2. Or Click on "VIEW ALL PARENTS" under "PARENTS" section in the sidebar.
+  3. The list with all parents name will be displayed.
+  4. Click on the parents username to view the his/her profile.
+
+###- Editting Parents Accounts###
+  1. To view a particular students profile, Click on "PARENTS" on the menu bar.
+  2. Or Click on "VIEW ALL PARENTS" under "PARENTS" section in the sidebar.
+  3. The list with all parents name will be displayed.
+  4. Click on the parents username to view the his/her profile.
+  5. Click on "EDIT ACCOUNT" at the right hand side of the parent name.
+  6. A popup block will open with all the details.
+  7. Edit the fields you want to change and click on "UPDATE ACCOUNT".
+  8. "DEATILS UPDATED SUCCESSFULLY" message will be displayed.
+  9. Click on "DONE".
+  10. The parent account is editted.
+
 
 ##Disabling & Re-enabling Accounts##
 ###- Disabling Accounts### 
