@@ -74,6 +74,15 @@ When a test is first created a default Part also gets created.
   3. Select the test of whose result you want to view.
   4. The result will be displayed.
 
+###- Viewing particular student's profile###
+  1. To view a particular students profile, Click on "SCHOOLS" on the menu bar.
+  2. Or Click on "VIEW ALL SCHOOLS" in the sidebar.
+  3. Click on the school name in which the student is studying.
+  4. School profile will be opened.
+  5. Scroll down to view the list of students in the school.
+  6. Click on the username of the student.
+  7. The students profile will open.
+
 ##Adding & Editing School Accounts##
 
 ###- Adding School Accounts###
